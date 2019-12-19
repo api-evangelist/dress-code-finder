@@ -1,0 +1,41 @@
+{
+    "name": "Dress Code Finder",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dress-code-finder.png",
+    "tags": [
+        "api provider",
+        "entertainment",
+        "fashion",
+        "have api",
+        "profile",
+        "restaurant",
+        "restaurants"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dress-code-finder\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dress Code Finder",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dress-code-finder.png",
+            "humanURL": "http:\/\/dresscodefinder.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dress-code-finder-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dresscodefinder.com\/api"
+        }
+    ]
+}
